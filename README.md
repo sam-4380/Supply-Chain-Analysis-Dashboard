@@ -73,26 +73,19 @@ This project uses two source files:
 ---
 
 ## Repository Structure
-Supply-Chain-Analysis-Dashboard/
 
-│
+All files are stored at the root level of this repository for simplicity:
 
-├── Supply_Chain_Analysis.pbix          → Power BI dashboard file
-
-├── supply_chain_data.csv               → Main dataset
-
-├── supplier_performance.csv            → Supplier benchmark dataset
-
-├── page1_executive_overview.png        → Dashboard screenshot - Page 1
-
-├── page2_operations_logistics.png      → Dashboard screenshot - Page 2
-
-├── page3_quality_suppliers.png         → Dashboard screenshot - Page 3
-
-├── SUPPLY CHAIN ANALYSIS.pptx          → Project presentation
-
-└── README.md
----
+| File | Description |
+|---|---|
+| `Supply_Chain_Analysis.pbix` | Power BI dashboard file |
+| `supply_chain_data.csv` | Main dataset (100 records, 24 columns) |
+| `supplier_performance.csv` | Supplier benchmark dataset |
+| `page1_executive_overview.png` | Dashboard screenshot — Page 1 |
+| `page2_operations_logistics.png` | Dashboard screenshot — Page 2 |
+| `page3_quality_suppliers.png` | Dashboard screenshot — Page 3 |
+| `supply_chain_analysis.pptx` | Project presentation |
+| `README.md` | Project documentation |
 
 ## How to Use
 1. Download or clone this repository
