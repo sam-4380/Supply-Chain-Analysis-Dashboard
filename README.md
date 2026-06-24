@@ -1,5 +1,4 @@
-# 📊 Supply Chain Analysis Dashboard
-
+# 📊 Supply Chain Analysis Dashboard,![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Status](https://img.shields.io/badge/Status-Complete-success)
 ## Project Overview
 This project is an interactive Power BI dashboard built to analyze supply chain performance across 23 attributes — covering revenue, logistics, quality control and supplier performance. It helps businesses monitor product performance, shipping efficiency, stock health and supplier reliability.
 
